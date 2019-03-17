@@ -10,7 +10,9 @@ class Car
   end
 
 
-  def
+  def go
+    return "returns 'VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!'"
+  end
 
 
   end
